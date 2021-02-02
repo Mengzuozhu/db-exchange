@@ -23,7 +23,7 @@
            <dependency>
                <groupId>com.github.mengzuozhu</groupId>
                <artifactId>db-exchange-mysql</artifactId>
-               <version>1.0.0-SNAPSHOT</version>
+               <version>1.0.0</version>
            </dependency>
    ```
 

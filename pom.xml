@@ -7,7 +7,7 @@
     <groupId>com.github.mengzuozhu</groupId>
     <artifactId>db-exchange</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <url>https://github.com/Mengzuozhu/db-exchange</url>
     <description>数据库分批读写交互模板</description>
 
