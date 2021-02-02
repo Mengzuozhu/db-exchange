@@ -7,7 +7,8 @@
     <groupId>com.github.mengzuozhu</groupId>
     <artifactId>db-exchange</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
+    <url>https://github.com/Mengzuozhu/db-exchange</url>
 
     <modules>
         <module>db-exchange-core</module>
@@ -16,6 +17,22 @@
         <module>db-exchange-mysql</module>
         <module>db-exchange-spring-jdbc</module>
     </modules>
+
+    <developers>
+        <developer>
+            <id>mengzuozhu</id>
+            <name>Meng Zuozhu</name>
+            <url>https://github.com/Mengzuozhu</url>
+            <email>mengzuozhu@foxmail.com</email>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
