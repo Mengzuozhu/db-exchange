@@ -1,7 +1,7 @@
 package com.github.mzz.exchange.mongodb;
 
-import com.mongodb.client.MongoCollection;
 import com.github.mzz.exchange.core.writer.DirectDataWriter;
+import com.mongodb.client.MongoCollection;
 import lombok.RequiredArgsConstructor;
 
 import java.util.List;

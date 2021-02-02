@@ -17,7 +17,6 @@ import java.util.function.Consumer;
  * ES Scroll
  *
  * @author mengzz
- *
  **/
 @RequiredArgsConstructor
 public class EsScrollHandler {

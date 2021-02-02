@@ -16,7 +16,6 @@ import java.net.URISyntaxException;
  * The type Es client util.
  *
  * @author mengzz
- *
  */
 public class EsClientUtil {
 

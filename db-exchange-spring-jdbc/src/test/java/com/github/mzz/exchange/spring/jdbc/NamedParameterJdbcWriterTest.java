@@ -1,9 +1,9 @@
 package com.github.mzz.exchange.spring.jdbc;
 
-import com.google.common.collect.ImmutableMap;
-import com.google.common.collect.Lists;
 import com.github.mzz.exchange.core.exchange.ExchangeTemplate;
 import com.github.mzz.exchange.core.reader.IterableReader;
+import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.Lists;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

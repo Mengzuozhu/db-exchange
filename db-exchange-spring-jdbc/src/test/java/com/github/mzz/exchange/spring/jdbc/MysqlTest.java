@@ -2,8 +2,6 @@ package com.github.mzz.exchange.spring.jdbc;
 
 import lombok.extern.slf4j.Slf4j;
 
-import javax.sql.DataSource;
-
 /**
  * @author mengzz
  **/

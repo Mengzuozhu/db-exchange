@@ -1,11 +1,11 @@
 package com.github.mzz.exchange.es.writer;
 
+import com.github.mzz.exchange.core.exchange.ExchangeTemplate;
+import com.github.mzz.exchange.core.reader.IterableReader;
 import com.github.mzz.exchange.es.EsTestUtil;
 import com.github.mzz.exchange.es.common.EsConstant;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Lists;
-import com.github.mzz.exchange.core.exchange.ExchangeTemplate;
-import com.github.mzz.exchange.core.reader.IterableReader;
 import org.elasticsearch.action.bulk.BulkRequest;
 import org.elasticsearch.action.support.WriteRequest;
 import org.elasticsearch.client.RequestOptions;

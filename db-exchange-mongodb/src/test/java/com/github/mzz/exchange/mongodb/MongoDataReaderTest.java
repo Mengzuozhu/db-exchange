@@ -1,8 +1,8 @@
 package com.github.mzz.exchange.mongodb;
 
-import com.mongodb.client.MongoCollection;
 import com.github.mzz.exchange.core.exchange.ExchangeTemplate;
 import com.github.mzz.exchange.core.writer.ListDataCollector;
+import com.mongodb.client.MongoCollection;
 import org.bson.Document;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;

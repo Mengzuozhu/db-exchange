@@ -1,9 +1,9 @@
 package com.github.mzz.exchange.core.exchange;
 
 import com.github.mzz.exchange.core.ExchangeTestUtil;
-import com.github.mzz.exchange.core.reader.DefaultDataReader;
 import com.github.mzz.exchange.core.model.CommonDataContext;
 import com.github.mzz.exchange.core.model.DataContext;
+import com.github.mzz.exchange.core.reader.DefaultDataReader;
 import com.github.mzz.exchange.core.writer.ListDataCollector;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

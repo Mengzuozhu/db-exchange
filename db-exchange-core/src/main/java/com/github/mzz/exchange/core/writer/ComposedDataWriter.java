@@ -1,7 +1,7 @@
 package com.github.mzz.exchange.core.writer;
 
-import com.google.common.collect.Lists;
 import com.github.mzz.exchange.core.model.DataContext;
+import com.google.common.collect.Lists;
 import lombok.RequiredArgsConstructor;
 
 import java.util.ArrayList;

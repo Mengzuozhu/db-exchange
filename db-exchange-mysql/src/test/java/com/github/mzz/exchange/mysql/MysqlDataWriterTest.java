@@ -1,13 +1,13 @@
 package com.github.mzz.exchange.mysql;
 
-import com.google.common.collect.ImmutableMap;
-import com.google.common.collect.Lists;
 import com.github.mzz.exchange.core.exchange.ExchangeTemplate;
 import com.github.mzz.exchange.core.reader.IterableReader;
 import com.github.mzz.exchange.mysql.setter.ArrayPreparedStatementSetter;
 import com.github.mzz.exchange.mysql.setter.BeanPreparedStatementSetter;
 import com.github.mzz.exchange.mysql.setter.ListPreparedStatementSetter;
 import com.github.mzz.exchange.mysql.setter.MapPreparedStatementSetter;
+import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.Lists;
 import org.apache.commons.dbutils.handlers.MapListHandler;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;

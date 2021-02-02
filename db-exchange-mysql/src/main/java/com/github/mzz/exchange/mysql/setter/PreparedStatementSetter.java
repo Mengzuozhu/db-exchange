@@ -15,7 +15,7 @@ public interface PreparedStatementSetter<T> {
      * Fill statement.
      *
      * @param preparedStatement the prepared statement
-     * @param inputs             the inputs
+     * @param inputs            the inputs
      * @throws SQLException the sql exception
      */
     void fillStatement(PreparedStatement preparedStatement, T inputs) throws SQLException;

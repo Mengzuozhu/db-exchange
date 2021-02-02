@@ -5,7 +5,6 @@ package com.github.mzz.exchange.core.model;
  *
  * @param <T> the type parameter
  * @author mengzz
- *
  */
 public interface DataContext<T> {
 
@@ -23,7 +22,7 @@ public interface DataContext<T> {
      *
      * @return the boolean
      */
-    default boolean isComplete(){
+    default boolean isComplete() {
         return getData() == null;
     }
 }

@@ -1,9 +1,9 @@
 package com.github.mzz.exchange.mongodb;
 
-import com.google.common.collect.Lists;
-import com.mongodb.client.MongoCollection;
 import com.github.mzz.exchange.core.exchange.ExchangeTemplate;
 import com.github.mzz.exchange.core.reader.IterableReader;
+import com.google.common.collect.Lists;
+import com.mongodb.client.MongoCollection;
 import org.bson.Document;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;

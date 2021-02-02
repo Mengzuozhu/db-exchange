@@ -9,7 +9,6 @@ import java.util.List;
  *
  * @param <T> the type parameter
  * @author mengzz
- *
  */
 public interface DataWriter<T> {
     /**

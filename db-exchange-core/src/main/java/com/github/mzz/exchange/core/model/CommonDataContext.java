@@ -5,7 +5,6 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * @author mengzz
- *
  **/
 @RequiredArgsConstructor(staticName = "of")
 @Data

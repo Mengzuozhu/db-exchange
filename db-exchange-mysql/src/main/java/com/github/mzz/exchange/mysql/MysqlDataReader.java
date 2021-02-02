@@ -1,9 +1,9 @@
 package com.github.mzz.exchange.mysql;
 
-import com.github.mzz.exchange.mysql.mapper.ResultSetMapper;
 import com.github.mzz.exchange.core.model.CommonDataContext;
 import com.github.mzz.exchange.core.model.DataContext;
 import com.github.mzz.exchange.core.reader.DataReader;
+import com.github.mzz.exchange.mysql.mapper.ResultSetMapper;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.dbutils.DbUtils;

@@ -7,7 +7,6 @@ import com.github.mzz.exchange.core.model.DataContext;
  *
  * @param <T> the type parameter
  * @author mengzz
- *
  */
 public interface DataReader<T> {
     /**

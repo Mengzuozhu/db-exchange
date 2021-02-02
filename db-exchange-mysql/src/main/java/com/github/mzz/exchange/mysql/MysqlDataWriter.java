@@ -1,8 +1,8 @@
 package com.github.mzz.exchange.mysql;
 
-import com.github.mzz.exchange.mysql.setter.PreparedStatementSetter;
 import com.github.mzz.exchange.core.model.DataContext;
 import com.github.mzz.exchange.core.writer.DataWriter;
+import com.github.mzz.exchange.mysql.setter.PreparedStatementSetter;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.dbutils.DbUtils;

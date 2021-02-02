@@ -1,8 +1,8 @@
 package com.github.mzz.exchange.core.exchange;
 
+import com.github.mzz.exchange.core.model.DataContext;
 import com.github.mzz.exchange.core.reader.DataReader;
 import com.github.mzz.exchange.core.writer.DataWriter;
-import com.github.mzz.exchange.core.model.DataContext;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.Validate;
 import org.apache.commons.lang3.exception.ExceptionUtils;

@@ -13,7 +13,6 @@ import java.util.function.Consumer;
  * ES from size分页
  *
  * @author mengzz
- *
  **/
 public class EsFromPageHandler {
 

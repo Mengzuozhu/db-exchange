@@ -15,7 +15,6 @@ import java.util.function.Consumer;
  * ES Search After
  *
  * @author mengzz
- *
  **/
 public class EsSearchAfterHandler {
     private static final String UID = "_id";
