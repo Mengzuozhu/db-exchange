@@ -21,7 +21,7 @@
 
    ```xml
            <dependency>
-               <groupId>com.github.mzz</groupId>
+               <groupId>com.github.mengzuozhu</groupId>
                <artifactId>db-exchange-mysql</artifactId>
                <version>1.0-SNAPSHOT</version>
            </dependency>
