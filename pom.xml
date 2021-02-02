@@ -8,6 +8,7 @@
     <artifactId>db-exchange</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+    <name>db-exchange</name>
     <url>https://github.com/Mengzuozhu/db-exchange</url>
     <description>数据库分批读写交互模板</description>
 
