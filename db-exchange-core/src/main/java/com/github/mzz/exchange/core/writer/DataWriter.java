@@ -9,7 +9,7 @@ import java.util.List;
  *
  * @param <T> the type parameter
  * @author mengzz
- * @date 2020 /5/7
+ *
  */
 public interface DataWriter<T> {
     /**

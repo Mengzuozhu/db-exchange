@@ -5,7 +5,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * @author mengzz
- * @date 2020/9/22
+ *
  **/
 @RequiredArgsConstructor(staticName = "of")
 @Data

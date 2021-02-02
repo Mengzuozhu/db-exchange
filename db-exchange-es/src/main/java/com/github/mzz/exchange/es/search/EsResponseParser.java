@@ -11,7 +11,7 @@ import java.util.function.Consumer;
  * The type Es response parser.
  *
  * @author mengzz
- * @date 2020 /8/25
+ *
  */
 public class EsResponseParser {
 

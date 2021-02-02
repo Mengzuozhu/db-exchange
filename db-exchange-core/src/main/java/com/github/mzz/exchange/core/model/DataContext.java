@@ -5,7 +5,7 @@ package com.github.mzz.exchange.core.model;
  *
  * @param <T> the type parameter
  * @author mengzz
- * @date 2020 /9/22
+ *
  */
 public interface DataContext<T> {
 

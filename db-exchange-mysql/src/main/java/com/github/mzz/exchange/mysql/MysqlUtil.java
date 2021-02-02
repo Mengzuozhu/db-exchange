@@ -13,7 +13,6 @@ import java.util.function.Consumer;
  * The type Mysql util.
  *
  * @author mengzz
- * @date 2020 /6/18
  */
 public class MysqlUtil {
 
