@@ -11,6 +11,10 @@
 
     <artifactId>db-exchange-mongodb</artifactId>
 
+    <properties>
+        <mongo-java-server.version>1.36.0</mongo-java-server.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <artifactId>db-exchange-core</artifactId>
