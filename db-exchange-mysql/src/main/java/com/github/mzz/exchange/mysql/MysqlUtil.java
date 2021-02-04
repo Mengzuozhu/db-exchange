@@ -1,6 +1,5 @@
 package com.github.mzz.exchange.mysql;
 
-import org.apache.commons.dbcp.BasicDataSource;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.ResultSetHandler;
 
@@ -15,21 +14,6 @@ import java.util.function.Consumer;
  * @author mengzz
  */
 public class MysqlUtil {
-
-    public static final String CJ_JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-
-    public static DataSource getDataSource(String url, String username, String password) {
-        return getDataSource(CJ_JDBC_DRIVER, url, username, password);
-    }
-
-    public static DataSource getDataSource(String driverClassName, String url, String username, String password) {
-        BasicDataSource dataSource = new BasicDataSource();
-        dataSource.setDriverClassName(driverClassName);
-        dataSource.setUrl(url);
-        dataSource.setUsername(username);
-        dataSource.setPassword(password);
-        return dataSource;
-    }
 
     public static <T> T query(DataSource dataSource, String sql, ResultSetHandler<T> rsh) throws SQLException {
         return new QueryRunner(dataSource).query(sql, rsh);
