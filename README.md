@@ -1,5 +1,6 @@
 # db-exchange
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.mengzuozhu/db-exchange-core/badge.svg?style=flat)](https://mvnrepository.com/artifact/com.github.mengzuozhu/db-exchange-core)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.mengzuozhu/db-exchange-core/badge.svg?style=flat)](https://mvnrepository.com/artifact/com.github.mengzuozhu/db-exchange-core)  
+
 **数据库分批读写交互模板**
 
 ## 功能
